@@ -4,7 +4,6 @@
 
 🎓 A recent graduate in **Software Engineering** from UTAS-Ibra  <br/>
 💡 Passionate about building impactful **Web** and **Mobile applications**  <br/>
-🚀 Experienced in **Python**, **Java**, **SQL**, **Flutter**, and **Unity** <br/>
 
 📱 Currently exploring innovative ways to enhance **user experience** and solve real-world problems through technology. <br/>
 
