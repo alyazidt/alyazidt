@@ -30,6 +30,32 @@ Let's connect and build something great together!
 
 
 ## 💻 Programming Languages:
+
+<!-- C# -->
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+
+
+## 💻 Programming Languages:
+
+
+## 💻 Programming Languages:
+
+
+## 💻 Programming Languages:
+
+
+## 💻 Programming Languages:
+
+
+## 💻 Programming Languages:
+
+## 💻 Programming Languages:
+
+## 💻 Programming Languages:
+
+## 💻 Programming Languages:
 <!-- Technologies and Tools -->
 <p align="left">
   <!-- Android -->
@@ -42,10 +68,7 @@ Let's connect and build something great together!
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   </a>
 
-  <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
+  
 
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
