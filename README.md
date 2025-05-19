@@ -12,8 +12,6 @@
 
 📱 Currently exploring innovative ways to enhance **user experience** and solve real-world problems through technology. <br/>
 
-Let's connect and build something great together!
-
 <br/>
 Let's connect and build something great together!
 <br/>
