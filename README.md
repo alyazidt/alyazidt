@@ -40,4 +40,4 @@ Let's connect and build something great together!
 
 
 
-![footer](WEBP/footer.webp)
+![footer](img/footer.webp)
