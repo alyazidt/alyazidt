@@ -5,9 +5,6 @@
   I'm Al-Yazid Talal Al-Mukhaini
 </h1>
 
-
-
-<br/>
 <br/>
 <img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 
@@ -21,7 +18,8 @@ Let's connect and build something great together!
 
 
 
-
+<br/>
+<br/>
 ## 🌐 Social Media:
 <a href="https://linkedin.com/in/alyazidt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
 <a href="https://api.whatsapp.com/send?phone=96294315" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
