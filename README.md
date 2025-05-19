@@ -29,7 +29,7 @@ Let's connect and build something great together!
 
 
 
-## 💻 Programming Languages:
+## </> Programming Languages:
 
 <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -66,7 +66,7 @@ Let's connect and build something great together!
 <br/>
 
 
-## 💻 Frontend Development:
+## 👨‍💻 Frontend Development:
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -80,12 +80,12 @@ Let's connect and build something great together!
 <br/>
 <br/>
 
-## 💻 Backend Development:
+## 🔙 Backend Development:
 
 <br/>
 <br/>
 
-## 💻 Mobile App Development:
+## 📱 Mobile App Development:
   <!-- Flutter -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
@@ -111,7 +111,7 @@ Let's connect and build something great together!
 <br/>
 <br/>
 
-## 💻 Database:
+## 🛢 Database:
   <!-- MS SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
@@ -130,7 +130,7 @@ Let's connect and build something great together!
 <br/>
 <br/>
 
-## 💻 Backend as a Service(BaaS):
+## 💼 Backend as a Service(BaaS):
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
@@ -139,7 +139,7 @@ Let's connect and build something great together!
 <br/>
 <br/>
 
-## 💻 Framework:
+## 🛠️ Framework:
   <!-- .NET -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
@@ -148,7 +148,7 @@ Let's connect and build something great together!
 <br/>
 <br/>
 
-## 💻 Software:
+## ⚙️ Software:
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -157,7 +157,7 @@ Let's connect and build something great together!
 <br/>
 <br/>
 
-## 💻 Game Engines:
+## 🎮 Game Engines:
   <!-- Unity -->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
@@ -167,7 +167,7 @@ Let's connect and build something great together!
 <br/>
 <br/>
   
-## 💻 IOT:
+## 💡 IOT:
   <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
