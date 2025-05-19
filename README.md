@@ -13,7 +13,7 @@
 📱 Currently exploring innovative ways to enhance **user experience** and solve real-world problems through technology. <br/>
 
 <br/>
-Let's connect and build something great together!
+<h1 align="center"> Let's connect and build something great together! </h1>
 <br/>
 <br/>
 <br/>
