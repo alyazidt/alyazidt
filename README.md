@@ -15,6 +15,7 @@
 Let's connect and build something great together!
 
 <br/>
+Let's connect and build something great together!
 <br/>
 <br/>
 <br/>
