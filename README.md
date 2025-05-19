@@ -77,9 +77,13 @@ Let's connect and build something great together!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
   
+<br/>
+<br/>
 
 ## 💻 Backend Development:
 
+<br/>
+<br/>
 
 ## 💻 Mobile App Development:
   <!-- Flutter -->
@@ -103,7 +107,9 @@ Let's connect and build something great together!
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
   </a>
-  
+
+<br/>
+<br/>
 
 ## 💻 Database:
   <!-- MS SQL Server -->
@@ -121,11 +127,17 @@ Let's connect and build something great together!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
 
+<br/>
+<br/>
+
 ## 💻 Backend as a Service(BaaS):
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
+
+<br/>
+<br/>
 
 ## 💻 Framework:
   <!-- .NET -->
@@ -133,6 +145,8 @@ Let's connect and build something great together!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
 
+<br/>
+<br/>
 
 ## 💻 Software:
   <!-- Figma -->
@@ -140,6 +154,8 @@ Let's connect and build something great together!
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 
+<br/>
+<br/>
 
 ## 💻 Game Engines:
   <!-- Unity -->
@@ -147,6 +163,9 @@ Let's connect and build something great together!
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
   </a>
 
+
+<br/>
+<br/>
   
 ## 💻 IOT:
   <!-- Arduino -->
@@ -165,8 +184,9 @@ Let's connect and build something great together!
 
 
 <br/>
+<br/>
 
-## 💻 Quotes:
+## ✌️ Quotes:
 <h4 align="center">
   
 ```diff
