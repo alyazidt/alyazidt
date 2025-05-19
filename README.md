@@ -30,7 +30,7 @@ Let's connect and build something great together!
 
 
 <br/>
-## Quotes:
+
 <h4 align="center">
   
 ```diff
