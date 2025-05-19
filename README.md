@@ -166,11 +166,7 @@ Let's connect and build something great together!
 
 <br/>
 
-## 💻 Programming Languages:
-
-
-
-<br/>
+## 💻 Quotes:
 <h4 align="center">
   
 ```diff
