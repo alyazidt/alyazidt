@@ -20,8 +20,6 @@ Let's connect and build something great together!
 
 
 ## 🌐 Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alyazidt)
-
 <a href="https://linkedin.com/in/alyazidt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
 <a href="https://api.whatsapp.com/send?phone=96294315" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png"/></a>
 <a href="https://instagram.com/alyazidt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000"/></a>
