@@ -21,8 +21,6 @@
 <br/>
 <br/>
 <h1 align="center"> Let's connect and build something great together!</h1>
-<br/>
-
 
 ## 🌐 Social Media:
 <a href="https://linkedin.com/in/alyazidt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
