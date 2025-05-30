@@ -33,32 +33,22 @@
 
 <!-- C# -->
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=55205&format=png&color=456e35" alt="C#" width="40" height="40"/>
   </a>
 
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=39854&format=png&color=456e35" alt="JavaScript" width="40" height="40"/>
   </a>
 
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=10232&format=png&color=456e35" alt="PHP" width="40" height="40"/>
   </a>
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=12592&format=png&color=456e35" alt="Python" width="40" height="40"/>
   </a>
 
 
@@ -67,20 +57,27 @@
 
 
 ## 👨‍💻 Frontend Development:
+
+
+<!-- HTML5 -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=10246&format=png&color=456e35" alt="HTML5" width="40" height="40"/>
+  </a>
+  
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=10236&format=png&color=456e35" alt="CSS3" width="40" height="40"/>
   </a>
 
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+  
   
 <br/>
 <br/>
 
 ## 🔙 Backend Development:
+
+<!-- ASP.NET -->
+  
 
 <br/>
 <br/>
@@ -88,24 +85,7 @@
 ## 📱 Mobile App Development:
   <!-- Flutter -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-
-  
-  <!-- Android -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-
-  
-  <!-- Dart -->
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-
-  <!-- Kotlin -->
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=-AszLOZlCRQ0&format=png&color=456e35" alt="Flutter" width="40" height="40"/>
   </a>
 
 <br/>
@@ -114,7 +94,7 @@
 ## 🛢 Database:
   <!-- MS SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=10429&format=png&color=456e35" alt="MS SQL" width="40" height="40"/>
   </a>
 
   <!-- MySQL -->
