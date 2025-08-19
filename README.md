@@ -5,21 +5,7 @@
   I'm Al-Yazid Talal Al-Mukhaini
 </h1>
 
-## 🌟 About me:
-<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-<br/>
-<br/>
 
-💡 Passionate about building **Web** and **Mobile Applications**  <br/>
-
-📱 Currently exploring innovative ways to enhance **user experience** and solve real-world problems through technology. 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h1 align="center"> Let's connect and build something great together!</h1>
 
 ## 🌐 Social Media:
 <a href="https://linkedin.com/in/alyazidt" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
@@ -30,34 +16,7 @@
 
 
 
-## ✌️ Quotes:
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
 
-</h4>  
-<br/>
-<br/>
 
 ## 📊 GitHub Stats:
 ---
